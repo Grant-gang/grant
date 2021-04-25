@@ -1,0 +1,16 @@
+
+h1 {
+	color: blue;
+	text-align: center;
+	background: yellow;
+}
+ul{
+	color: red;
+}
+ol{
+	color: green;
+}
+a{
+	color: brown;
+	background: yellow;
+}
