@@ -23,8 +23,17 @@ button{
 	font-size: 20px;
 	margin: 2px;
 	color: red;
-	
+
 }
 button:hover{
 	background-color: yellow;
+}
+
+table{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+th, td{
+	border: 1px solid black;
+	padding: 12px;
 }
