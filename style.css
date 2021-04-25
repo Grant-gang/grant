@@ -14,3 +14,17 @@ a{
 	color: brown;
 	background: yellow;
 }
+
+button{
+	font-family: arial;
+	font-weight: bold;
+	background-color: blue;
+	padding: 5px;
+	font-size: 20px;
+	margin: 2px;
+	color: red;
+	
+}
+button:hover{
+	background-color: yellow;
+}
